@@ -1,0 +1,16 @@
+{
+  "name": "immutable-cursor-with-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc index.ts --module commonjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "3.7.5",
+    "typescript": "1.7.3"
+  }
+}
